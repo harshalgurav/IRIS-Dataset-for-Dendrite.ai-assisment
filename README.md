@@ -1,10 +1,10 @@
 # IRIS-Dataset-for-Dendrite.ai-assisment
 
-# Data Visualization and Machine Learning with Iris Dataset
+## Data Visualization and Machine Learning with Iris Dataset
 
 In this project, we will be working on Iris dataset to classify the flowers species, we will follow the whole machine learning project lifecycle and also we will deploy it using flask. Below is the whole outline that we will be following.
 
-# Introduction
+## Introduction
 
 The dataset for this project originates from the UCI Machine Learning Repository. The Iris flower data set or Fisher's Iris data set is a multivariate data set introduced by the British statistician and biologist Ronald Fisher in his 1936 paper The use of multiple measurements in taxonomic problems as an example of linear discriminant analysis.
 
