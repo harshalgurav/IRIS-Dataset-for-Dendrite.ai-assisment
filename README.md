@@ -25,7 +25,7 @@ The dataset for this project originates from the UCI Machine Learning Repository
 - Checking Null Values
 - Dividing the data 
 - Model Development 
-    - Using Lr, SVM, Decision Tree, Gradient Boosting 
+    - Using Lr, SVM, Decision Tree, KNN 
     - Calculating loss  
     - Training on every algorithm 
     - Choosing the best 
